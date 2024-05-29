@@ -1,3 +1,9 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+*{
+  background-color: transparent;
+}
+.p-virtualscroller{
+  margin-top: 10px;
+}
